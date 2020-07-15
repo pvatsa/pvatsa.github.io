@@ -10,15 +10,8 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  2. [Understanding GenX](C90/T02/P000.Cover) - a more practical guide of our experiments in parenting and mentoring.
  3. [Is it time for Digitocracy?](C90/T03/P000.Cover) - Has democracy outlived its usefulness? Is there an alternative that we should start looking at? We think so.
  4. [Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
- 5. [Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
- 
-### Irelevant thoughts from my own life.
-Personal thoughts and experiences that includes reviews about books, movies, songs, places, resturants, foods etc.
-1. [Book Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
-2. [Movie Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
-3. [Places Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
-4. [Other ramblings](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
+ 5. [Bits and Bytes](C90/T04/P000.Cover) - Random unorganized thoughts that will hopefully lead to something useful (or at least fun)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDc5MjM4OCwxOTQ4NDgyMzkwLDE5Nz
+eyJoaXN0b3J5IjpbMjA0Mzg0MjE2MywxOTQ4NDgyMzkwLDE5Nz
 M0NTU5OF19
 -->
