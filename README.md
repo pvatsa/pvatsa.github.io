@@ -30,9 +30,9 @@ C04.Software Architecture
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
 
 C03.Software Design and Code
- 1. [T01.Github Samples](C03/T01/P000.Cover) - a listing of popular and interesting github project repos and quick notes on each of them.
- 2. [T02.Other Samples](C03/T02/P000.Cover) - other technical
- 3. [T03.Technology Articles](C03/T03/P000.Cover) - interesting technology articles that talk about concepts and code.
+ 1. [T01.Awesome Github Repositories](C03/T01/P000.Cover) - a listing of popular and interesting github project repos and quick notes on each of them.
+ 2. [T02.Technology Articles](C03/T02/P000.Cover) - other technical samples and documentation that explain various concepts.
+ 3. [T03.Tutorials and Walkthroughs](C03/T03/P000.Cover) - interesting technology articles that talk about concepts and code.
  
 C90.Life - or something like that
  1. [T01.The meaning of life](C90/T01/P000.Cover)
@@ -42,6 +42,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODMyMTQ5OSwtMjEzMzE1NDU0NywtND
-AzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbLTE1Nzk4NTE3ODMsLTIxMzMxNTQ1NDcsLT
+QwMzE1NjUwNV19
 -->
