@@ -27,8 +27,8 @@ C90.Life - or something like that
  2. [T02.Bringing up kids](C90/T02/P000.Cover)
  3. [T03.Is it time for Digitocracy?](C90/T03/P000.Cover)
 
-[I currently use St
+[I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI2NzYwMDYsLTIxMzMxNTQ1NDcsLT
+eyJoaXN0b3J5IjpbLTE4MjMyMzcyNTIsLTIxMzMxNTQ1NDcsLT
 QwMzE1NjUwNV19
 -->
