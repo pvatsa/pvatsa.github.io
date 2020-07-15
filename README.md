@@ -22,10 +22,10 @@ These are our notes on how businesses can and should leverage technology. While 
  3. [T03.Leveraging Technology](C02/T03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
 
 C04.Software Architecture
- 1. [T01.Cloud Infrastructure](C02/T01/P000.Cover) - How the cloud is allowing smaller businesses a better playing field to compete with the big
- 2. [T02.SaaS archtiecture](C02/T02/P000.Cover)
- 3. [T03.Machine Learning and AI](C02/T03/P000.Cover)
- 4. [T04.Robotics and IoT](C02/T04/P000.Cover)
+ 1. [T01.Cloud Infrastructure](C02/T01/P000.Cover) - How the cloud is allowing startups a better playing field to compete with the larger enterprises.
+ 2. [T02.SaaS archtiecture](C02/T02/P000.Cover) - How multi-tenanted platforms can scale and create a exponential growth for the business.
+ 3. [T03.Machine Learning and AI](C02/T03/P000.Cover) - how machine learning and AI will fundamentally change the way we think around any business process.
+ 4. [T04.Robotics and IoT](C02/T04/P000.Cover) - How robotics and IoT devices can provide real-time 
  5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover)
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover)
 
@@ -42,6 +42,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE5ODUxMTAsLTIxMzMxNTQ1NDcsLT
+eyJoaXN0b3J5IjpbLTEwMzE5NzgwNzUsLTIxMzMxNTQ1NDcsLT
 QwMzE1NjUwNV19
 -->
