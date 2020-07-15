@@ -1,9 +1,9 @@
 ## Asthrasoft Foundation [Keep IT Simple]
 
-The aim of Asthrasoft Foundation is to help us become a better version of ourselves. To do this, we explore what we mean by "better" and underrtake projects that can help us move in that direction.
+The aim of Asthrasoft Foundation is to help us become a better version of ourselves. To do this, we explore what we mean by "better" and undertake projects that can help us move in that direction.
 
 ### Projects that we support
- 1. [FP01.The meaning of life](C90/T01/P000.Cover) - our take on the philosophy of life.
+ 1. [FP01.Spirulina Foundation](C90/T01/P000.Cover) - our take on the philosophy of life.
  2. 
 ### Ideas on 
  1. [FT01.The meaning of life](C90/T01/P000.Cover) - our take on the philosophy of life.
@@ -12,5 +12,5 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  4. [T04.Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
  5. [T05.Social Evolution of mankind](C90/T05/P000.Cover) - Are we evolving into a new species already and is there a way to evolve into a better version of humankind?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzQ1NTk4XX0=
+eyJoaXN0b3J5IjpbLTExOTE1MTA4NDEsMTk3MzQ1NTk4XX0=
 -->
