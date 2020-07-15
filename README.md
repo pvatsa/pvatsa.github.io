@@ -24,9 +24,11 @@ C03.Software Design and Code
  
 C90.Life - or something like that
  1. [T01.The meaning of life](C90/T01/P000.Cover)
- 2. [T02.Bringing up kids](C03/T02/P000.Cover)
- 3. [T03.Technology Articles](C03/T03/P000.Cover)
+ 2. [T02.Bringing up kids](C90/T02/P000.Cover)
+ 3. [T03.Is it time for Digitocracy?](C90/T03/P000.Cover)
+
+[I currently use St
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTkxNTE5NSwtMjEzMzE1NDU0NywtND
-AzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbLTE3NDI2NzYwMDYsLTIxMzMxNTQ1NDcsLT
+QwMzE1NjUwNV19
 -->
