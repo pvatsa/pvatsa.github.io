@@ -11,12 +11,13 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  3. [Is it time for Digitocracy?](C90/T03/P000.Cover) - Has democracy outlived its usefulness? Is there an alternative that we should start looking at? We think so.
  4. [Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
  
- ### Irelevant thoughts from my own life.
+### Irelevant thoughts from my own life.
 Personal thoughts and experiences that includes reviews about books, movies, songs, places, resturants, foods etc.
 1. [Book Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 2. [Movie Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 3. [Places Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 4. [Other ramblings](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODQ4MjM5MCwxOTczNDU1OThdfQ==
+eyJoaXN0b3J5IjpbLTExNjgwODc4OTIsMTk0ODQ4MjM5MCwxOT
+czNDU1OThdfQ==
 -->
