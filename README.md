@@ -45,7 +45,8 @@ C90.Life - or something like that
 
 
 [Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee]
+[Across all my documentation, I consiously try to use the plural verb - our instead of mine, we instead of me etc. This]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI1OTEyNDcsLTIxMzMxNTQ1NDcsLT
-QwMzE1NjUwNV19
+eyJoaXN0b3J5IjpbLTExNDkwMzEwNDMsLTExMDI1OTEyNDcsLT
+IxMzMxNTQ1NDcsLTQwMzE1NjUwNV19
 -->
