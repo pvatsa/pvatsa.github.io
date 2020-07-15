@@ -43,8 +43,9 @@ C90.Life - or something like that
  4. [T04.Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
  5. [T05.Social Evolution of mankind](C90/T05/P000.Cover) - Are we evolving into a new species already and is there a way to evolve into a better version of humankind?
 
-[I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
+
+[Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee and lets have a more]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTg5ODU0MiwtMjEzMzE1NDU0NywtND
+eyJoaXN0b3J5IjpbLTIzOTQzNDQ0MiwtMjEzMzE1NDU0NywtND
 AzMTU2NTA1XX0=
 -->
