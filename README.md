@@ -6,8 +6,7 @@ This repo is organized by categories and topics and each topic is like a mini-eb
 
 C01 : Projects
 This is the the most active repo where we will pen down notes for all the different projects and domains that we are involved with. 
- 1. [T01.RubixWorks](C01/T01/P000.Cover) - our intelligent network for startups and professional businesses.
- 2. [T02.Medical Robotics](C01/T02/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
+ 1. [T02.Medical Robotics](C01/T02/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  3. [T03.SaaS Order Fulfilment](C01/T03/P000.Cover) - A SaaS order fulfilment platform that scales to 1000s of customers with complex integrations.
  4. [T04.Tele-medicine platform](C01/T03/P000.Cover) - A custom web-RTC based video consultation platform integrated with the Hospital ERP
  5. [T05.ERP Cloud Collaboration](C01/T03/P000.Cover) - A platform that extends a SAGE ERP into the cloud and leverages video conferencing and cognitive features to unlock business value.
@@ -30,9 +29,9 @@ C04.Software Architecture
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
 
 C03.Software Design and Code
- 1. [T01.Awesome Github Repositories](C03/T01/P000.Cover) - a listing of popular and interesting github project repos and quick notes on each of them.
- 2. [T02.Technology Articles](C03/T02/P000.Cover) - other technical samples and documentation that explain various concepts.
- 3. [T03.Tutorials and Walkthroughs](C03/T03/P000.Cover) - interesting technology articles that talk about concepts and code.
+ 1. [T01.Technology Articles](C03/T01/P000.Cover) - interesting technology articles that talk about concepts and code.
+ 2. [T02.Tutorials and Walkthroughs](C03/T02/P000.Cover) - other technical samples and documentation that explain various concepts.
+ 3. [T03.Awesome Github Repositories](C03/T03/P000.Cover) - a listing of popular and interesting github project repos and quick notes on each of them.
  
 C90.Life - or something like that
  1. [T01.The meaning of life](C90/T01/P000.Cover)
@@ -42,6 +41,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzk4NTE3ODMsLTIxMzMxNTQ1NDcsLT
+eyJoaXN0b3J5IjpbLTE0MDQ1MjQyODAsLTIxMzMxNTQ1NDcsLT
 QwMzE1NjUwNV19
 -->
