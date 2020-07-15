@@ -17,13 +17,13 @@ These are notes on innovative solution approaches that we have helped implement 
  7. [ERP Cloud Collaboration](S07/P000.Cover) - A platform that extends a traditional ERP into the cloud and leverages context driven audio/video and text collaboration to unlock business value.
  
 ### Technology
-C04.Software Architecture
- 1. [T01.Cloud Infrastructure](C02/T01/P000.Cover) - How the cloud is allowing startups a better playing field to compete with the larger enterprises.
- 2. [T02.SaaS archtiecture](C02/T02/P000.Cover) - How multi-tenanted platforms can scale and create a exponential growth for the business.
- 3. [T03.Machine Learning and AI](C02/T03/P000.Cover) - how machine learning and AI will fundamentally change the way we think around any business process.
- 4. [T04.Robotics and IoT](C02/T04/P000.Cover) - How robotics and IoT devices can provide real-time, two-way interactions with devices anywhere on the globe.
- 5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover) - How block chain and quantum computing are gradually making their way into mainstream business platforms.
- 6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
+These are notes on technology platforms that are changing the face of business.
+ 1. [Cloud Infrastructure](T01/P000.Cover) - How the cloud is allowing startups a better playing field to compete with the larger enterprises.
+ 2. [SaaS archtiecture](T02/P000.Cover) - How multi-tenanted platforms can scale and create a exponential growth for the business.
+ 3. [Machine Learning and AI](T03/P000.Cover) - how machine learning and AI will fundamentally change the way we think around any business process.
+ 4. [Robotics and IoT](T04/P000.Cover) - How robotics and IoT devices can provide real-time, two-way interactions with devices anywhere on the globe.
+ 5. [Blockchain and Quantum Computing](T05/P000.Cover) - How block chain and quantum computing are gradually making their way into mainstream business platforms.
+ 6. [Mixed Reality, Gaming and VFX](T06/P000.Cover) - how technology is changing our perception of the world around us.
  
 ### Business
 These are our notes on how businesses can and should leverage technology. While we are would have an obvious bias towards our platform, we also talk about how businesses should leverage different technologies to work more efficiently.
@@ -31,5 +31,6 @@ These are our notes on how businesses can and should leverage technology. While 
  2. [T02.Making Money](C02/T02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
  3. [T03.Leveraging Technology](C02/T03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMjExOTQ3LC0xNDcyNTgxNzA0XX0=
+eyJoaXN0b3J5IjpbLTE1OTM4ODI2NzksLTE0NzI1ODE3MDRdfQ
+==
 -->
