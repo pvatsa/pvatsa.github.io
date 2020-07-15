@@ -4,6 +4,11 @@ This is a journal of all my thougths and postings as a markdown. This is the fas
 
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
+C00 : Projects
+ 1. [T01.RubixWorks](C00/T01/P000.Cover)
+ 2. [T02.SaaS Business Apps](C01/T02/P000.Cover)
+ 3. [T03.Collaboration Apps](C01/T03/P000.Cover)
+ 
 C01 : Technology for Business
  1. [T01.RubixWorks](C01/T01/P000.Cover)
  2. [T02.SaaS Business Apps](C01/T02/P000.Cover)
@@ -30,6 +35,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODcyMDMyNywtMjEzMzE1NDU0NywtND
+eyJoaXN0b3J5IjpbMTAzODM4ODk4OCwtMjEzMzE1NDU0NywtND
 AzMTU2NTA1XX0=
 -->
