@@ -4,8 +4,9 @@
 
 This page hosts
 
- 1. Projects- these are ntoes for all the different projects across domains that we are involved with.
- 2. 
+ 1. Projects- notes on thevarious projects undertaken.
+ 2. Technology - thoughts on technologies that make an impact.
+ 3. Business - ideas on 
 
 This is the the most active repo which holds the notes for all the different projects and domains that we are involved with in the past. 
  1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
@@ -30,5 +31,5 @@ C04.Software Architecture
  5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover) - How block chain and quantum computing are gradually making their way into mainstream business platforms.
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ5NzcwODBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTI5ODM4MzBdfQ==
 -->
