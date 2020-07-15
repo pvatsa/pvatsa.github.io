@@ -9,7 +9,7 @@ Rubixworks is our "Intelligent Network" that we have incubated. Still in early b
 
 C01 : Projects
 This is the the most active repo where we will pen down notes for all the different projects and domains that we are involved with. 
- 1. [T01.Medical Robotics](C01/T02/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
+ 1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  2. [T02.AI Driven Compliance Verification](C01/T02/P000.Cover) - a platform for verifying document compliance that can be used in multiple industries like healthcare, education and finance.
  3. [T03.SaaS Order Fulfilment](C01/T03/P000.Cover) - A SaaS order fulfilment platform that scales to 1000s of customers with complex integrations.
  4. [T04.Tele-medicine platform](C01/T03/P000.Cover) - A custom web-RTC based video consultation platform integrated with the Hospital ERP
@@ -37,13 +37,13 @@ C03.Software Design and Code
  3. [T03.Awesome Github Repositories](C03/T03/P000.Cover) - a listing of popular and interesting github project repos and quick notes on each of them.
  
 C90.Life - or something like that
- 1. [T01.The meaning of life](C90/T01/P000.Cover)
- 2. [T02.Bringing up kids](C90/T02/P000.Cover)
+ 1. [T01.The meaning of life](C90/T01/P000.Cover) - our take on the philosophy of life.
+ 2. [T02.Bringing up kids](C90/T02/P000.Cover) - a more practical guide of our experiments in parenting and mentoring.
  3. [T03.Is it time for Digitocracy?](C90/T03/P000.Cover)
  4. [T04.Wealth vs Value](C90/T04/P000.Cover)
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTU1MDUxLC0yMTMzMTU0NTQ3LC00MD
-MxNTY1MDVdfQ==
+eyJoaXN0b3J5IjpbMTIxNTExMTg3MCwtMjEzMzE1NDU0NywtND
+AzMTU2NTA1XX0=
 -->
