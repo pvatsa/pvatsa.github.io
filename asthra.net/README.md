@@ -1,5 +1,7 @@
 ## Welcome to the Asthrasoft Foundation Wiki
 
+The aim of Asthrasoft Foundation is to help us become a better version of ourselves. To do this, we explore what we mean by a "better
+
 C90.Life - or something like that
  1. [T01.The meaning of life](C90/T01/P000.Cover) - our take on the philosophy of life.
  2. [T02.Understanding GenX](C90/T02/P000.Cover) - a more practical guide of our experiments in parenting and mentoring.
@@ -11,5 +13,5 @@ C90.Life - or something like that
 [Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee]
 [Across all my documentation, I consiously try to use the plural verb - our instead of mine, we instead of me etc. This is because many folks have contributed to  the above enveavours. But sometimes I end up tying me or mine - and that error is solely MINE]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTExNDY4Ml19
+eyJoaXN0b3J5IjpbLTIzMjgxNjgyOF19
 -->
