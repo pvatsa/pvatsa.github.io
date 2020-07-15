@@ -10,6 +10,10 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  2. [T02.Understanding GenX](C90/T02/P000.Cover) - a more practical guide of our experiments in parenting and mentoring.
  3. [T03.Is it time for Digitocracy?](C90/T03/P000.Cover) - Has democracy outlived its usefulness? Is there an alternative that we should start looking at? We think so.
  4. [T04.Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
+ 
+ ### Irelevant thoughts from my own life.
+Personal thoughts and experiences that includes reviews about books, movies, songs, places, resturants, foods etc.
+1. [FT01.Evolution of mankind](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDAyODM5NCwxOTczNDU1OThdfQ==
+eyJoaXN0b3J5IjpbMzg3MjgxMjYyLDE5NzM0NTU5OF19
 -->
