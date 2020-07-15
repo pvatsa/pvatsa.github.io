@@ -1,6 +1,6 @@
 ## Welcome to the Asthrasoft Consulting Wiki
 
-> Asthrasoft off
+> Asthrasoft offers both business and technology consulting to startups and enterprises. Talk to us if you are looking to Ideate, Incubate, Innovate or Influence around technology driven business solutions.
 
 This is the the most active repo which holds the notes for all the different projects and domains that we are involved with in the past. 
  1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
@@ -41,5 +41,5 @@ C90.Life - or something like that
 [Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee]
 [Across all my documentation, I consiously try to use the plural verb - our instead of mine, we instead of me etc. This is because many folks have contributed to  the above enveavours. But sometimes I end up tying me or mine - and that error is solely MINE]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4NzQ4MjNdfQ==
+eyJoaXN0b3J5IjpbNzg1NzQxMjk4XX0=
 -->
