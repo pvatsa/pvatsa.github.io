@@ -44,8 +44,8 @@ C90.Life - or something like that
  5. [T05.Social Evolution of mankind](C90/T05/P000.Cover) - Are we evolving into a new species already and is there a way to evolve into a better version of humankind?
 
 
-[Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee and lets have a more]
+[Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTQzNDQ0MiwtMjEzMzE1NDU0NywtND
-AzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbLTExMDI1OTEyNDcsLTIxMzMxNTQ1NDcsLT
+QwMzE1NjUwNV19
 -->
