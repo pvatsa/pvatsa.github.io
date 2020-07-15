@@ -7,14 +7,14 @@ This repo is organized by categories and topics and each topic is like a mini-eb
 C01 : Projects
 This is the the most active repo where we will pen down notes for all the different projects (customer, internal, open source, experimental etc) that we are involved with.
  1. [T01.RubixWorks](C01/T01/P000.Cover)
- 2. [T02.AI driven ](C01/T02/P000.Cover)
+ 2. [T02.Medical Robotics](C01/T02/P000.Cover)
  3. [T03.Collaboration Apps](C01/T03/P000.Cover)
  
-C03 : Technology for Business
+C02 : Technology for Business
 These are our notes on how businesses can and should leverage technology. While we are would have an obvious bias towards our platform, we also talk about how businesses should leverage different technologies to work more efficiently.
- 1. [T01.Business First](C03/T01/P000.Cover)
- 2. [T02.Making Money](C03/T02/P000.Cover)
- 3. [T03.Leveraging Technology](C03/T03/P000.Cover)
+ 1. [T01.Business First](C02/T01/P000.Cover)
+ 2. [T02.Making Money](C02/T02/P000.Cover)
+ 3. [T03.Leveraging Technology](C02/T03/P000.Cover)
 
 C04.Software Architecture
  1. [T01.Cloud Infrastructure](C02/T01/P000.Cover)
@@ -37,6 +37,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMjM0NDQxLC0yMTMzMTU0NTQ3LC00MD
-MxNTY1MDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY3OTk1MzksLTIxMzMxNTQ1NDcsLT
+QwMzE1NjUwNV19
 -->
