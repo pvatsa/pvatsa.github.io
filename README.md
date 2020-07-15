@@ -12,8 +12,8 @@ This is the the most active repo where we will pen down notes for all the differ
  4. [T04.Tele-medicine platform](C01/T03/P000.Cover) - A custom web-RTC based video consultation platform integrated with the Hospital ERP
  5. [T05.ERP Cloud Collaboration](C01/T03/P000.Cover) - A platform that extends a SAGE ERP into the cloud and leverages video conferencing and cognitive features to unlock business value.
  6. [T05.Micro-financing](C01/T03/P000.Cover) - A platform that allows small businesses to apply and manage micro-loans with an AI driven credit scoring engine.
- 7. [T05.AI Powered Assessments](C01/T03/P000.Cover)
- 8. [T05.AI D](C01/T03/P000.Cover)
+ 7. [T05.AI Powered Assessments](C01/T03/P000.Cover) - a video based assessment 
+ 8. [T05.AI Driven Compliance Verification](C01/T03/P000.Cover)
  
  
  
@@ -44,6 +44,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjA5MjM2MSwtMjEzMzE1NDU0NywtND
-AzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbLTE4MTQ5NzQwMjEsLTIxMzMxNTQ1NDcsLT
+QwMzE1NjUwNV19
 -->
