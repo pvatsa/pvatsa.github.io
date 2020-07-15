@@ -1,14 +1,14 @@
 ## Welcome to my journal
 
-This is a journal of thougths and postings as a markdown. This is the fastest way for me to pen down all my thougths and hopefully be better organized.
+This is a journal of thougths that are posted as notes in  markdown. This is the fastest way to pen down thougths and hopefully be better organized.
 
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
 C00 : [Rubixworks](C00/T01/P000.Cover)
-Rubixworks is our "Intelligent Network" that we have incubated. Still in early beta, we will post our notes about it as it evolves. 
+Rubixworks is an "Intelligent Network" that incubated at Asthrasot Consulting. Still in early beta, this repo will contain notes about it as it evolves. 
 
 C01 : Projects
-This is the the most active repo where we will pen down notes for all the different projects and domains that we are involved with. 
+This is the the most active repo which holds the notes for all the different projects and domains that we are involved with in the past. 
  1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  2. [T02.AI Driven Compliance Verification](C01/T02/P000.Cover) - a platform for verifying document compliance that can be used in multiple industries like healthcare, education and finance.
  3. [T03.SaaS Order Fulfilment](C01/T03/P000.Cover) - A SaaS order fulfilment platform that scales to 1000s of customers with complex integrations.
@@ -47,6 +47,6 @@ C90.Life - or something like that
 [Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee]
 [Across all my documentation, I consiously try to use the plural verb - our instead of mine, we instead of me etc. This is because many folks have contributed to  the above enveavours. But sometimes I end up tying me or mine - and that error is solely MINE]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg4NDI4MjksLTExMDI1OTEyNDcsLT
-IxMzMxNTQ1NDcsLTQwMzE1NjUwNV19
+eyJoaXN0b3J5IjpbNTEyNjY3MTg3LC0xMTAyNTkxMjQ3LC0yMT
+MzMTU0NTQ3LC00MDMxNTY1MDVdfQ==
 -->
