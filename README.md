@@ -7,12 +7,12 @@ This repo is organized by categories and topics and each topic is like a mini-eb
 C01 : Technology for Business
  1. [T001.RubixWorks](/C01/T001/P000.Cover)
  2. [T002.SaaS Business Apps](/C01/T002/P000.Cover)
- 3. [T003.Collaboration Apps](/C01/T002/P000.Cover)
+ 3. [T003.Collaboration Apps](/C01/T003/P000.Cover)
 
 C02.Software Architecture
  1. T001.Multi-tenanted SaaS archtiecture
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODMxODA1NSwtNDAzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbNjMzNDkwMjMyLC00MDMxNTY1MDVdfQ==
 -->
