@@ -15,7 +15,8 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
 Personal thoughts and experiences that includes reviews about books, movies, songs, places, resturants, foods etc.
 1. [Book Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 2. [Movie Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
-3. [Culture Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
+3. [Places Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
+4. [Other ramblings](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjYwMzEzNSwxOTczNDU1OThdfQ==
+eyJoaXN0b3J5IjpbLTEzNDUwNzY4NzYsMTk3MzQ1NTk4XX0=
 -->
