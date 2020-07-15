@@ -2,6 +2,11 @@
 
 > Asthrasoft offers both business and technology consulting to startups and enterprises. Talk to us if you are looking to Ideate, Incubate, Innovate or Influence around technology driven business solutions.
 
+This page hosts
+
+ 1. Projects- these are ntoes for all the different projects across domains that we are involved with.
+ 2. 
+
 This is the the most active repo which holds the notes for all the different projects and domains that we are involved with in the past. 
  1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  2. [T02.AI Driven Compliance Verification](C01/T02/P000.Cover) - a platform for verifying document compliance that can be used in multiple industries like healthcare, education and finance.
@@ -25,5 +30,5 @@ C04.Software Architecture
  5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover) - How block chain and quantum computing are gradually making their way into mainstream business platforms.
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc0MjgxMDRdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ5NzcwODBdfQ==
 -->
