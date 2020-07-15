@@ -1,4 +1,4 @@
-## Asthrasoft Foundation [Keep IT Simple]
+## Asthrasoft Foundation
 
 The aim of Asthrasoft Foundation is to help us become a better version of ourselves. To do this, we explore what we mean by "better" and undertake projects that can help us move in that direction.
 
@@ -12,6 +12,6 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  4. [Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
  5. [Bits and Bytes](C90/T04/P000.Cover) - Random unorganized thoughts that will hopefully lead to something useful (or at least fun)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mzg0MjE2MywxOTQ4NDgyMzkwLDE5Nz
-M0NTU5OF19
+eyJoaXN0b3J5IjpbOTYxNzg4OTI5LDE5NDg0ODIzOTAsMTk3Mz
+Q1NTk4XX0=
 -->
