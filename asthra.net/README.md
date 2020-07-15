@@ -3,7 +3,7 @@
 The aim of Asthrasoft Foundation is to help us become a better version of ourselves. To do this, we explore what we mean by "better" and undertake projects that can help us move in that direction.
 
 ### Projects that we support
- 1. [Spirulina Foundation](https://www.spirulinafoundation.com/) - Using Spirulina to combat  malnutrition and boosting local employment.
+ 1. [Spirulina Foundation](https://www.spirulinafoundation.com/) - SpirulinaFoundation uses the super food - Spirulina - grown locally to combat malnutrition and boost local employment making a huge difference in the lives of these families.
  
 ### Ideas that can make a difference
  1. [Evolution of mankind](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
@@ -18,5 +18,5 @@ Personal thoughts and experiences that includes reviews about books, movies, son
 3. [Places Reviews](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 4. [Other ramblings](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTgwNjI4NCwxOTczNDU1OThdfQ==
+eyJoaXN0b3J5IjpbMTk0ODQ4MjM5MCwxOTczNDU1OThdfQ==
 -->
