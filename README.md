@@ -18,11 +18,11 @@ This is the the most active repo where we will pen down notes for all the differ
  C02 : Technology for Business
 These are our notes on how businesses can and should leverage technology. While we are would have an obvious bias towards our platform, we also talk about how businesses should leverage different technologies to work more efficiently.
  1. [T01.Business First](C02/T01/P000.Cover) - our notes on customer focus and how we believe businesses should be driven.
- 2. [T02.Making Money](C02/T02/P000.Cover) - an obvious need for any venture to survive
- 3. [T03.Leveraging Technology](C02/T03/P000.Cover)
+ 2. [T02.Making Money](C02/T02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
+ 3. [T03.Leveraging Technology](C02/T03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
 
 C04.Software Architecture
- 1. [T01.Cloud Infrastructure](C02/T01/P000.Cover)
+ 1. [T01.Cloud Infrastructure](C02/T01/P000.Cover) - How the cloud is allowing smaller businesses a better playing field to compete with the big
  2. [T02.SaaS archtiecture](C02/T02/P000.Cover)
  3. [T03.Machine Learning and AI](C02/T03/P000.Cover)
  4. [T04.Robotics and IoT](C02/T04/P000.Cover)
@@ -42,6 +42,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2OTYyODAxLC0yMTMzMTU0NTQ3LC00MD
-MxNTY1MDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMzE5ODUxMTAsLTIxMzMxNTQ1NDcsLT
+QwMzE1NjUwNV19
 -->
