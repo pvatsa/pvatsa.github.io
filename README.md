@@ -5,14 +5,14 @@ This is a journal of all my thougths and postings as a markdown. This is the fas
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
 [Category] C01 : Technology for Business
- 1. Topic T001 : RubixWorks
- 2. Topic T002 : SaaS Business Apps
- 3. Topic T003 : Collaboration Apps
+ 1. [Topic] T001 : RubixWorks
+ 2. [Topic] T002 : SaaS Business Apps
+ 3. [Topic] T003 : Collaboration Apps
 
 C02.Software Architecture
  1. T001.Multi-tenanted SaaS archtiecture
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMjUxMjgsLTQwMzE1NjUwNV19
+eyJoaXN0b3J5IjpbLTEyOTI3NDMwNTgsLTQwMzE1NjUwNV19
 -->
