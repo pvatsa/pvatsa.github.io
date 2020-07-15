@@ -2,11 +2,9 @@
 
 > Asthrasoft offers both business and technology consulting to startups and enterprises. Talk to us if you are looking to Ideate, Incubate, Innovate or Influence around technology driven business solutions.
 
-This page hosts
-
- 1. [Project Notes](#projects)- notes on thevarious projects undertaken.
- 2. [Impact Technologies](#technology) - thoughts on technologies that make an impact.
- 3. [Creating value with a business](#business) - ideas on business that create value.
+ 1. [Implementing Innovative Solutions](#projects)- notes on the various projects undertaken.
+ 2. [Leveraging Impact Technologies](#technology) - thoughts on technologies that make an impact.
+ 3. [Creating Business Value](#business) - ideas on business that create value.
 
 # Projects
 This is the the most active repo which holds the notes for all the different projects and domains that we are involved with in the past. 
@@ -34,5 +32,5 @@ C04.Software Architecture
  5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover) - How block chain and quantum computing are gradually making their way into mainstream business platforms.
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTcyMzQ2M119
+eyJoaXN0b3J5IjpbLTE3OTk0OTg5NjBdfQ==
 -->
