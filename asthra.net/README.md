@@ -6,12 +6,12 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  1. [Spirulina Foundation](https://www.spirulinafoundation.com/) - SpirulinaFoundation uses the super food - Spirulina - grown locally to combat malnutrition and boost local employment making a huge difference in the lives of these families.
  
 ### Ideas that can make a difference
- 1. [Evolution of mankind](C90/T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
- 2. [Understanding GenX](C90/T02/P000.Cover) - a more practical guide of our experiments in parenting and mentoring.
- 3. [Is it time for Digitocracy?](C90/T03/P000.Cover) - Has democracy outlived its usefulness? Is there an alternative that we should start looking at? We think so.
- 4. [Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
- 5. [Bits and Bytes](C90/T04/P000.Cover) - Random unorganized thoughts that will hopefully lead to something useful (or at least fun)
+ 1. [Evolution of mankind](T01/P000.Cover) - our take on the philosophy of life and what it means to become better human beings.
+ 2. [Understanding GenX](T02/P000.Cover) - a more practical guide of our experiments in parenting and mentoring.
+ 3. [Is it time for Digitocracy?](T03/P000.Cover) - Has democracy outlived its usefulness? Is there an alternative that we should start looking at? We think so.
+ 4. [Wealth vs Value](T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
+ 5. [Bits and Bytes](T05/P000.Cover) - Random unorganized thoughts that will hopefully lead to something useful (or at least fun)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzg4OTI5LDE5NDg0ODIzOTAsMTk3Mz
-Q1NTk4XX0=
+eyJoaXN0b3J5IjpbLTIwNzExNDIwMjUsMTk0ODQ4MjM5MCwxOT
+czNDU1OThdfQ==
 -->
