@@ -3,7 +3,7 @@
 C00 : [Rubixworks](C00/T01/P000.Cover)
 Rubixworks is an "Intelligent Network" that was incubated at Asthrasoft Consulting. Still in early beta, this repo will contain notes about it as it evolves. 
 
-RubixWorks is a journey in trying to get software to help my daily workflow rather than hinder it (which I believe many software do!!). More than just a software platform, it is a way of thinking about how software should work - which is why I call it the RubixDNA.
+RubixWorks is a journey in trying to get software to help people's daily workflow rather than hinder it (which many software do!!). More than just a software platform, it is a way of thinking about how software should be designed.
 
 [backstory : the name rubixworks stems from the experience of playing the rubick's cube where the moment we solve one face, we mess up the other. It takes quite a bit of skill to line up all the faces right. 
 
@@ -17,5 +17,5 @@ Rubixworks attempts to look at both business and life from different "faces" and
  2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTI3Mjc2Ml19
+eyJoaXN0b3J5IjpbLTE3NzA2OTUxODddfQ==
 -->
