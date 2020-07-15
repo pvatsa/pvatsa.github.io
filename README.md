@@ -15,12 +15,12 @@ C02.Software Architecture
  3. [T03.Machine Learning and AI](C02/T03/P000.Cover)
  4. [T04.Robotics and IoT](C02/T04/P000.Cover)
  5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover)
- 6. [T06.VFX, AR/VR/MR](C02/T06/P000.Cover)
+ 6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover)
 
 C03.Software Design and Code
  1. [T01.Github Samples](C03/T01/P000.Cover)
  2. [T02.Other Samples](C03/T02/P000.Cover)
  3. [T03.Technology Articles](C03/T03/P000.Cover)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjE2Njk4NiwtNDAzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbLTIxMzMxNTQ1NDcsLTQwMzE1NjUwNV19
 -->
