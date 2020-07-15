@@ -10,11 +10,11 @@
 These are notes on innovative solution approaches that we have helped implement as part of our engagements.
  1. [Medical Robotics](S01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  2. [AI Driven Compliance Verification](S02/P000.Cover) - a platform for verifying document compliance that can be used in multiple industries like healthcare, education and finance.
- 3. [T03.SaaS Order Fulfilment](C01/T03/P000.Cover) - A SaaS order fulfilment platform that scales to 1000s of customers with complex integrations.
- 4. [T04.Tele-medicine platform](C01/T03/P000.Cover) - A custom web-RTC based video consultation platform integrated with the Hospital ERP
- 5. [T05.ERP Cloud Collaboration](C01/T03/P000.Cover) - A platform that extends a traditional ERP into the cloud and leverages context driven audio/video and text collaboration to unlock business value.
- 6. [T05.Micro-financing](C01/T03/P000.Cover) - A platform that allows small businesses to apply and manage micro-loans with an AI driven credit scoring engine.
- 7. [T05.AI Powered Assessments](C01/T03/P000.Cover) - an assessment platform that uses video analytics for hiring and recruitment.
+ 3. [SaaS Order Fulfilment](S03/P000.Cover) - A SaaS order fulfilment platform that scales to 1000s of customers with complex integrations.
+ 4. [Tele-medicine platform](S04/P000.Cover) - A custom web-RTC based video consultation platform integrated with the Hospital ERP
+ 5. [ERP Cloud Collaboration](S05/P000.Cover) - A platform that extends a traditional ERP into the cloud and leverages context driven audio/video and text collaboration to unlock business value.
+ 6. [Micro-lending and financing](S06/P000.Cover) - A platform that allows small businesses to apply and manage micro-loans with an AI driven credit scoring engine.
+ 7. [AI Powered Assessments](C01/T03/P000.Cover) - an assessment platform that uses video analytics for hiring and recruitment.
  
 ### Technology
 C04.Software Architecture
@@ -31,5 +31,5 @@ These are our notes on how businesses can and should leverage technology. While 
  2. [T02.Making Money](C02/T02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
  3. [T03.Leveraging Technology](C02/T03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDcxNDYyNywtMTQ3MjU4MTcwNF19
+eyJoaXN0b3J5IjpbMTEyNjc0Mjk0MywtMTQ3MjU4MTcwNF19
 -->
