@@ -1,6 +1,6 @@
-## Praveen Srivatsa [Keep IT Simple]
+## Praveen Srivatsa [Enjoy IT]
 
-The aim of Asthrasoft Foundation is to help us become a better version of ourselves. To do this, we explore what we mean by "better" and underrtake projects that can help us move in that direction.
+My personal page with all the personal thoughts and experiences that includes reviews about books, movies, songs, places, resturants, foods etc.
 
 ### Projects that we support
  1. [FP01.The meaning of life](C90/T01/P000.Cover) - our take on the philosophy of life.
@@ -12,5 +12,5 @@ The aim of Asthrasoft Foundation is to help us become a better version of oursel
  4. [T04.Wealth vs Value](C90/T04/P000.Cover) - A rethink of the entire monetary system that has become too complex to manage.
  5. [T05.Social Evolution of mankind](C90/T05/P000.Cover) - Are we evolving into a new species already and is there a way to evolve into a better version of humankind?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MTE1NTE3Nl19
+eyJoaXN0b3J5IjpbNjM2MzEyOTgzXX0=
 -->
