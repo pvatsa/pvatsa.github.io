@@ -2,11 +2,11 @@
 
 > Asthrasoft offers both business and technology consulting to startups and enterprises. Talk to us if you are looking to Ideate, Incubate, Innovate or Influence around technology driven business solutions.
 
- 1. [Implementing Innovative Solutions](#projects)- notes on the various projects undertaken.
+ 1. [Implementing Innovative Solutions](#solutions) - notes on innovative solution approaches.
  2. [Leveraging Impact Technologies](#technology) - thoughts on technologies that make an impact.
  3. [Creating Business Value](#business) - ideas on business that create value.
 
-# Projects
+# Solutions
 This is the the most active repo which holds the notes for all the different projects and domains that we are involved with in the past. 
  1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  2. [T02.AI Driven Compliance Verification](C01/T02/P000.Cover) - a platform for verifying document compliance that can be used in multiple industries like healthcare, education and finance.
@@ -17,7 +17,6 @@ This is the the most active repo which holds the notes for all the different pro
  7. [T05.AI Powered Assessments](C01/T03/P000.Cover) - an assessment platform that uses video analytics for hiring and recruitment.
  
 # Business
- C02 : Technology for Business
 These are our notes on how businesses can and should leverage technology. While we are would have an obvious bias towards our platform, we also talk about how businesses should leverage different technologies to work more efficiently.
  1. [T01.Business First](C02/T01/P000.Cover) - our notes on customer focus and how we believe businesses should be driven.
  2. [T02.Making Money](C02/T02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
@@ -32,5 +31,5 @@ C04.Software Architecture
  5. [T05.Blockchain and Quantum Computing](C02/T05/P000.Cover) - How block chain and quantum computing are gradually making their way into mainstream business platforms.
  6. [T06.Mixed Reality, Gaming and VFX](C02/T06/P000.Cover) - how technology is changing our perception of the world around us.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk0OTg5NjBdfQ==
+eyJoaXN0b3J5IjpbLTExMTc4NDM0NzFdfQ==
 -->
