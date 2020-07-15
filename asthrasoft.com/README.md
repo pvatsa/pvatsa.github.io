@@ -1,4 +1,4 @@
-# Welcome to the Asthrasoft Consulting Wiki
+## Welcome to the Asthrasoft Consulting Wiki
 
 > Asthrasoft offers both business and technology consulting to startups and enterprises. Talk to us if you are looking to Ideate, Incubate, Innovate or Influence around technology driven business solutions.
 
@@ -6,7 +6,7 @@
  2. [Leveraging Impact Technologies](#technology) - thoughts on technologies that make an impact.
  3. [Creating Business Value](#business) - ideas on business that create value.
 
-# Solutions
+### Solutions
 These are notes on innovative solution approaches that we have helped implement as part of our engagements.
  1. [T01.Medical Robotics](C01/T01/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
  2. [T02.AI Driven Compliance Verification](C01/T02/P000.Cover) - a platform for verifying document compliance that can be used in multiple industries like healthcare, education and finance.
@@ -16,7 +16,7 @@ These are notes on innovative solution approaches that we have helped implement 
  6. [T05.Micro-financing](C01/T03/P000.Cover) - A platform that allows small businesses to apply and manage micro-loans with an AI driven credit scoring engine.
  7. [T05.AI Powered Assessments](C01/T03/P000.Cover) - an assessment platform that uses video analytics for hiring and recruitment.
  
-# Technology
+### Technology
 C04.Software Architecture
  1. [T01.Cloud Infrastructure](C02/T01/P000.Cover) - How the cloud is allowing startups a better playing field to compete with the larger enterprises.
  2. [T02.SaaS archtiecture](C02/T02/P000.Cover) - How multi-tenanted platforms can scale and create a exponential growth for the business.
@@ -31,5 +31,5 @@ These are our notes on how businesses can and should leverage technology. While 
  2. [T02.Making Money](C02/T02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
  3. [T03.Leveraging Technology](C02/T03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUxNzA1NzVdfQ==
+eyJoaXN0b3J5IjpbOTk2MzE3OTc2XX0=
 -->
