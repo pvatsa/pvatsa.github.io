@@ -26,11 +26,10 @@ These are notes on technology platforms that are changing the face of business.
  6. [Mixed Reality, Gaming and VFX](T06/P000.Cover) - how technology is changing our perception of the world around us.
  
 ### Business
-These are our notes on how businesses can and should leverage technology. While we are would have an obvious bias towards our platform, we also talk about how businesses should leverage different technologies to work more efficiently.
- 1. [T01.Business First](C02/T01/P000.Cover) - our notes on customer focus and how we believe businesses should be driven.
- 2. [T02.Making Money](C02/T02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
- 3. [T03.Leveraging Technology](C02/T03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
+These are our notes on how businesses can and should leverage technology to gain a cometitive edge.
+ 1. [Business First](B01/P000.Cover) - our notes on customer focus and how we believe businesses should be driven.
+ 2. [Making Money](B02/P000.Cover) - our notes on how we can finance a startup - an obvious need for any venture to survive
+ 3. [Leveraging Technology](B03/P000.Cover) - our notes on how technology driven companies can gain a strategic edge over others.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM4ODI2NzksLTE0NzI1ODE3MDRdfQ
-==
+eyJoaXN0b3J5IjpbMjUxODM2Nzk4LC0xNDcyNTgxNzA0XX0=
 -->
