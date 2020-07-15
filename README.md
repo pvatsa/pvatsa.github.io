@@ -4,6 +4,9 @@ This is a journal of all my thougths and postings as a markdown. This is the fas
 
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
+C00 : Rubixworks
+Rubixworks is our "Intelligent Network" that we have incubated. Still in early beta, we will post our notes about it as it evolves. 
+
 C01 : Projects
 This is the the most active repo where we will pen down notes for all the different projects and domains that we are involved with. 
  1. [T02.Medical Robotics](C01/T02/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation for Spinal Cord Injury and Stroke patients.
@@ -41,6 +44,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ1MjQyODAsLTIxMzMxNTQ1NDcsLT
-QwMzE1NjUwNV19
+eyJoaXN0b3J5IjpbMTEzNDU0ODY0LC0yMTMzMTU0NTQ3LC00MD
+MxNTY1MDVdfQ==
 -->
