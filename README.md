@@ -5,11 +5,17 @@ This is a journal of all my thougths and postings as a markdown. This is the fas
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
 C01 : Projects
-This is the the most active repo where we will pen down notes for all the different projects (customer, internal, open source, experimental etc) that we are involved with.
+This is the the most active repo where we will pen down notes for all the different projects (customer, internal, open source, experimental etc) that we are involved with. NOTE : No NDA info i
  1. [T01.RubixWorks](C01/T01/P000.Cover)
- 2. [T02.Medical Robotics](C01/T02/P000.Cover)
- 3. [T03.SaaS business applications](C01/T03/P000.Cover)
- 4. [T04.Cloud based Hospital ERP](C01/T03/P000.Cover)
+ 2. [T02.BionicYantra](C01/T02/P000.Cover)
+ 3. [T03.Atandra](C01/T03/P000.Cover)
+ 4. [T04.MIMsys HealthHubz](C01/T03/P000.Cover)
+ 5. [T05.Gembha WorkHubz](C01/T03/P000.Cover)
+ 6. [T05.Plendify](C01/T03/P000.Cover)
+ 7. [T05.TalView](C01/T03/P000.Cover)
+ 8. [T05.Plendify](C01/T03/P000.Cover)
+ 
+ 
  
 C02 : Technology for Business
 These are our notes on how businesses can and should leverage technology. While we are would have an obvious bias towards our platform, we also talk about how businesses should leverage different technologies to work more efficiently.
@@ -38,6 +44,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM2ODEzNDksLTIxMzMxNTQ1NDcsLT
-QwMzE1NjUwNV19
+eyJoaXN0b3J5IjpbOTczODk2ODc5LC0yMTMzMTU0NTQ3LC00MD
+MxNTY1MDVdfQ==
 -->
