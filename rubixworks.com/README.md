@@ -1,8 +1,10 @@
 ## Welcome to the RubixWorks Wiki
 
-C00 : [Rubixworks](C00/T01/P000.Cover)
 Rubixworks is an "Intelligent Network" that was incubated at Asthrasoft Consulting. Still in early beta, this repo will contain notes about it as it evolves. 
 
+ 1. [Overview of the Intelligent Network](P01)
+ 2. [Getting Started with Rubixworks](P02)
+ 
 RubixWorks is a journey in trying to get software to help people's daily workflow rather than hinder it (which many software do!!). More than just a software platform, it is a way of thinking about how intelligent software should be designed.
 
 [backstory : the name rubixworks stems from the experience of playing the rubick's cube where the moment we solve one face, we mess up the other. It takes quite a bit of skill to line up all the faces right. 
@@ -13,9 +15,6 @@ Very similarly, in life and in business, when we solve one part of the problem (
 
 Rubixworks attempts to look intelligently at both business and life from different "faces" and tries to offer a comprehensive solution that can result in a 'solved' platform.
 
- 1. [Overview of the Intelligent Network](P001)
- 2. [Getting Started with Rubixworks](P002)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjgzMDkwNF19
+eyJoaXN0b3J5IjpbMzU1MDc5Mjc5XX0=
 -->
