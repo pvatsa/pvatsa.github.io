@@ -1,6 +1,6 @@
 ## Welcome to my journal
 
-This is a journal of all my thougths and postings as a markdown. This is the fastest way for me to pen down all my thougths and hopefully be better organized.
+This is a journal of thougths and postings as a markdown. This is the fastest way for me to pen down all my thougths and hopefully be better organized.
 
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
@@ -45,8 +45,8 @@ C90.Life - or something like that
 
 
 [Disclaimer : All views here are my own and are just fleeting thoughts in the overall time-space-continuum. If you want to know more, catch up with me over a coffee]
-[Across all my documentation, I consiously try to use the plural verb - our instead of mine, we instead of me etc. This]
+[Across all my documentation, I consiously try to use the plural verb - our instead of mine, we instead of me etc. This is because many folks have contributed to  the above enveavours. But sometimes I end up tying me or mine - and that error is solely MINE]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkwMzEwNDMsLTExMDI1OTEyNDcsLT
+eyJoaXN0b3J5IjpbLTE3MDg4NDI4MjksLTExMDI1OTEyNDcsLT
 IxMzMxNTQ1NDcsLTQwMzE1NjUwNV19
 -->
