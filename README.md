@@ -21,6 +21,12 @@ C03.Software Design and Code
  1. [T01.Github Samples](C03/T01/P000.Cover)
  2. [T02.Other Samples](C03/T02/P000.Cover)
  3. [T03.Technology Articles](C03/T03/P000.Cover)
+ 
+C90.Life - or something like that
+ 1. [T01.The meaning of life](C90/T01/P000.Cover)
+ 2. [T02.Bringing up kids](C03/T02/P000.Cover)
+ 3. [T03.Technology Articles](C03/T03/P000.Cover)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMxNTQ1NDcsLTQwMzE1NjUwNV19
+eyJoaXN0b3J5IjpbLTY4MTkxNTE5NSwtMjEzMzE1NDU0NywtND
+AzMTU2NTA1XX0=
 -->
