@@ -5,9 +5,9 @@ This is a journal of all my thougths and postings as a markdown. This is the fas
 This repo is organized by categories and topics and each topic is like a mini-ebook with lots of pages and sub-pages inside of it.
 
 C01 : Projects
-This is the the most active repo where we will pen down notes for all the different projects and domains (customer, internal, open source, experimental etc) that we are involved with. NOTE : No NDA info of customers are shared. Only a high-level business usecase of the domain is talked about.
- 1. [T01.RubixWorks](C01/T01/P000.Cover)
- 2. [T02.Medical Robotics](C01/T02/P000.Cover)
+This is the the most active repo where we will pen down notes for all the different projects and domains that we are involved with. 
+ 1. [T01.RubixWorks](C01/T01/P000.Cover) - our intelligent network for startups and professional businesses.
+ 2. [T02.Medical Robotics](C01/T02/P000.Cover) - A robotic exo-skeleton platform for medical rehabilitation fo
  3. [T03.SaaS Order Fulfilment](C01/T03/P000.Cover)
  4. [T04.Tele-medicine platform](C01/T03/P000.Cover)
  5. [T05.ERP Cloud Collaboration](C01/T03/P000.Cover)
@@ -44,6 +44,6 @@ C90.Life - or something like that
 
 [I currently use StackEdit.io for all my markdown needs. I already feel that I will outgrow StackEdit in the future, but for now, this is the best editor that lets me get on with my work]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDc2MDcyNCwtMjEzMzE1NDU0NywtND
-AzMTU2NTA1XX0=
+eyJoaXN0b3J5IjpbNjA1MDkyNzIzLC0yMTMzMTU0NTQ3LC00MD
+MxNTY1MDVdfQ==
 -->
