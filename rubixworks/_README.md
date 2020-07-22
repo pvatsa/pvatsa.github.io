@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: /rubixworks/readme
+permalink: /rubixworks/home/
 ---
 ## Welcome to the RubixWorks Wiki
 
