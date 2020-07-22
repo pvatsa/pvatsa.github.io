@@ -1,10 +1,10 @@
-## Welcome to my journal-C
+## Welcome to my journal-D
 
 This is a journal of thougths that are posted as notes in  markdown. This is the fastest way to pen down thougths and hopefully be better organized.
 
 This repo is organized into 4 broad independent wikis
 
- 1. [Rubixworks](rubixworks/test02) - the wiki with notes on our intelligent network.
+ 1. [Rubixworks](rubixworks/test02.md) - the wiki with notes on our intelligent network.
  2. [Asthrasoft Consulting](/asthrasoft/_README.md) - the wiki of our consulting organization where we talk about technology, business and solutions that bridge the two.
  3. [Asthrasoft Academy](academy/_README.md) - detailed notes on software development and technical tutorials and walkthroughs.
  4. [Asthrasoft Foundation](foundation/_README.md) - the wiki on creating a social impact and trying to make a better world.
