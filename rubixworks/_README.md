@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PAGE TITLE"
 permalink: /rubixworks/readme
+---
 ## Welcome to the RubixWorks Wiki
 
 Rubixworks is an "Intelligent Network" that was incubated at Asthrasoft Consulting. Still in early beta, this repo will contain notes about it as it evolves. 
