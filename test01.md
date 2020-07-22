@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Test01"
-permalink: /page/test01/
+permalink: /about/contact/
 ---
 ## Welcome to the Test01 Page
 
