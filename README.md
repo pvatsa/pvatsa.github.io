@@ -1,4 +1,4 @@
-## Welcome to my journal-A
+## Welcome to my journal-B
 
 This is a journal of thougths that are posted as notes in  markdown. This is the fastest way to pen down thougths and hopefully be better organized.
 
