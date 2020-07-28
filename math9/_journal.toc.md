@@ -2,12 +2,12 @@
 	<title>Maths Class 9</title>
 	<description></description>
 	<item>
-		<pubDate>Sun, 05 Jul 2020 00:49:00 +0000</pubDate>
-		<title>Technology vs Functionality</title>
-		<description>When we set out to build something that has never been done before, we also end up building the tools along the journey.</description>
-		<link>download_url</link>
+		<pubDate>2020-07-05 13:45</pubDate>
+		<title>Chapter 3 : Triangles</title>
+		<description>Triangles are 3 sided geometric shapes that have some unique properties</description>
+		<link>01_triangles.md</link>
 	</item>
 </journal>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyOTE0Mjk0XX0=
+eyJoaXN0b3J5IjpbLTE1NjQ5ODg2MjFdfQ==
 -->
