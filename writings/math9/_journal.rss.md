@@ -4,11 +4,10 @@
 	<item>
 		<pubDate>2020-07-05 13:45</pubDate>
 		<title>Chapter 1 : Number Systems</title>
-		<description>Triangles are 3 sided geometric shapes that have some unique properties</description>
+		<description>Rational, irrational and real numbers</description>
 		<link>03_triangles.md</link>
 	</item>
 </journal>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc1NzgxMTksLTExOTYzNjgzODBdfQ
-==
+eyJoaXN0b3J5IjpbMzgyNzE4Nzk4LC0xMTk2MzY4MzgwXX0=
 -->
