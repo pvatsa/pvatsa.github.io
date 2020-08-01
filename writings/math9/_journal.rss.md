@@ -5,9 +5,9 @@
 		<pubDate>2020-07-05 13:45</pubDate>
 		<title>Chapter 1 : Number Systems</title>
 		<description>Rational, irrational and real numbers</description>
-		<link>03_triangles.md</link>
+		<link>math9/01_numbersystems/topic.toc</link>
 	</item>
 </journal>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNzE4Nzk4LC0xMTk2MzY4MzgwXX0=
+eyJoaXN0b3J5IjpbOTU0OTY3OTEzLC0xMTk2MzY4MzgwXX0=
 -->
