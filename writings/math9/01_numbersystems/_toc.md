@@ -3,11 +3,11 @@
 	<description>Rational, irrational and real numbers</description>
 	<topic>
 		<pubDate>2020-07-05 13:45</pubDate>
-		<title>Introduction</title>
-		<description>Rational, irrational and real numbers</description>
-		<link>math9/01_numbersystems/_toc</link>
+		<title>1.1. Introduction</title>
+		<description>Rational Numbers on the number Line</description>
+		<link>01.md</link>
 	</topic>
 </toc>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxNjk5MDg5XX0=
+eyJoaXN0b3J5IjpbLTY0MTQyMTM2OV19
 -->
