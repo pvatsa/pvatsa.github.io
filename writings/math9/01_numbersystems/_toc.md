@@ -17,7 +17,7 @@
 	<page>
 		<title>Exercise 1.1 (Solutons)</title>
 		<pubDate>2020-07-05 13:45</pubDate>
-		<link>01_exercises.md</link>
+		<link>01.4_solutions.md</link>
 	</page>
 	<page>
 		<title>1.2. Irrational Numbers</title>
@@ -27,5 +27,5 @@
 	</page>
 </toc>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzA5MTM3M119
+eyJoaXN0b3J5IjpbMTY0ODI4NTEwNl19
 -->
