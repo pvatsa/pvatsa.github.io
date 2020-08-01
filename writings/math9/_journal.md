@@ -5,10 +5,10 @@
 		<title>Chapter 1 : Number Systems</title>
 		<description>Rational, irrational and real numbers</description>
 		<pubDate>2020-07-05 13:45</pubDate>
-		<link>01_numbersystems/_toc</link>
+		<link>01_numbersystems/_toc.md</link>
 		<image>cover.jpg</image>
 	</item>
 </journal>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTk0MjU4Nl19
+eyJoaXN0b3J5IjpbMzk4OTM2MDQxXX0=
 -->
