@@ -5,9 +5,10 @@
 		<pubDate>2020-07-05 13:45</pubDate>
 		<title>Chapter 3 : Triangles</title>
 		<description>Triangles are 3 sided geometric shapes that have some unique properties</description>
+		<url>03_triangles.md</url>
 		<link>03_triangles.md</link>
 	</item>
 </journal>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mzc5ODgzN119
+eyJoaXN0b3J5IjpbLTExOTYzNjgzODBdfQ==
 -->
