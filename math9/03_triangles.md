@@ -10,7 +10,8 @@ The key aspects of triangles include
 
 ### PythogorasTheorem
 
-[https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131](https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131)
+[https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131](https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131)githu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MDQzNDA4LDExMDc3NDc2MDVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE4ODk3MjMsNzg2MDQzNDA4LDExMD
+c3NDc2MDVdfQ==
 -->
